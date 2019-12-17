@@ -3,4 +3,5 @@ This is to demo git fetch
 This is to demo git pull
 this is updated by hari in local
 This is updated by developer two in remote
+git is distributed
 svn is central repository
