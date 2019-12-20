@@ -1,3 +1,4 @@
 Learning git branch
 Learning pull request
+Cloud is booming
 Azure has good market in next 2-3 years
